@@ -7,3 +7,10 @@ Hence the NPC requires a predictive retention (or churn) model in order to predi
 newspaper subscriptions.
 Customers are not allowed to cancel their subscriptions; hence a customer is defined as a churner if he or she does not 
 renew the subscription once the current subscriptions end.
+
+### Solution Notebooks
+This problem has been solved using different machine learning algorithms. Below are notebooks for each model. 
+|Algorithm|Notebook Name|
+|-|-|
+|Logistic Regression|[Logistic Regression]()|
+|Decision Tree|[Decision Tree]()|
