@@ -21,6 +21,8 @@ Below are the table details:
 ![Subscriptions](subscriptions.png)
 ### Credit
 ![Credit](credit.png)
+### Complaints
+![Complaints](complaints.png)
 
 ## Solution Notebooks
 This problem has been solved using different machine learning algorithms. Below are notebooks for each model. 
