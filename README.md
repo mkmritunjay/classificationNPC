@@ -26,5 +26,5 @@ Below are the table details:
 This problem has been solved using different machine learning algorithms. Below are notebooks for each model. 
 |Algorithm|Notebook Name|
 |-|-|
-|Logistic Regression|[Logistic Regression]((https://colab.research.google.com/github/mkmritunjay/classificationNPC/blob/master/classificationNPC.ipynb))|
+|Logistic Regression|[Logistic Regression](https://colab.research.google.com/github/mkmritunjay/classificationNPC/blob/master/classificationNPC.ipynb)|
 |Decision Tree|[Decision Tree]()|
